@@ -13,7 +13,7 @@ mongoose.connect(
   }
 );
 
-server.user(cors());
+server.use(cors());
 server.use(express.json());
 server.use(routes);
 
