@@ -1,3 +1,9 @@
+#default
+node_modules
+*.lock
+*lock*.*
+
+
 # Logs
 logs
 *.log
