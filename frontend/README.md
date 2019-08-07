@@ -1,4 +1,5 @@
 Criação do frontend da aplicação.
+//Não usa bd até os 43:45 min
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
