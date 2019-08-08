@@ -50,5 +50,4 @@ O código desse projeto está sob a licença da MIT, conforme o link
 Anderson V. Bellini
 
 [github](https://github.com/andersonbellini)
-
 [linkedin](https://linkedin.com/in/abellini)
