@@ -49,5 +49,5 @@ O código desse projeto está sob a licença da MIT, conforme o link
 ### Criado por
 Anderson V. Bellini
 
-[github](https://github.com/andersonbellini)
-[linkedin](https://linkedin.com/in/abellini)
+[Github](https://github.com/andersonbellini) / 
+[Linkedin](https://linkedin.com/in/abellini)
