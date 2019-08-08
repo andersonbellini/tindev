@@ -43,3 +43,12 @@ Após a geração, apenas a pasta criada, deve ser publicada em produção.
 
 O código desse projeto está sob a licença da MIT, conforme o link
 [MIT](https://github.com/andersonbellini/tindev/blob/master/LICENSE)
+
+
+
+### Criado por
+Anderson V. Bellini
+
+[github] - https://github.com/andersonbellini
+
+[linkedin] - https://linkedin.com/in/abellini/
