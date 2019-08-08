@@ -1,10 +1,6 @@
 ![Logo of the project](https://github.com/andersonbellini/tindev/blob/master/frontend/src/assets/logo.svg)
 
-# TinDev
 > Projeto tipo tinder, para match entre desenvolvedores de software
-
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
 
 ## Instalação / inicialização
 
@@ -46,4 +42,4 @@ Após a geração, apenas a pasta criada, deve ser publicada em produção.
 ## Licença
 
 O código desse projeto está sob a licença da MIT, conforme o link
-![MIT](https://github.com/andersonbellini/tindev/blob/master/LICENSE)
+[MIT](https://github.com/andersonbellini/tindev/blob/master/LICENSE)
