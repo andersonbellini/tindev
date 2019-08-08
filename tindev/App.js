@@ -1,8 +1,6 @@
-import React from 'react';
-import { Text } from 'react-native';
+import React from "react";
+import { Text } from "react-native";
 
-const App = () => {
+export default function App() {
   return <Text>Hello World </Text>;
-};
-
-export default App;
+}
